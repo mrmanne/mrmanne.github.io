@@ -1,4 +1,4 @@
-## About
+## Erik Mannergren
 
 My name is Erik Mannergren. I'm working as a software developer in Gothenburg, Sweden.
 
