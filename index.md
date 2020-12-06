@@ -4,4 +4,4 @@ My name is Erik Mannergren. I'm working as a software developer in Gothenburg, S
 
 ## My repositories on github
 
-[My Rust solutions to Avent of Code 2020](https://mrmanne.github.io/advent-of-code-2020/)
+[My Rust solutions to Advent of Code 2020](https://mrmanne.github.io/advent-of-code-2020/)
