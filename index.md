@@ -13,6 +13,6 @@ I have also been developing a Nintendo Entertainment System (NES) emulator as a 
 [My Rust solutions to Advent of Code 2020](https://mrmanne.github.io/advent-of-code-2020)
 
 ## Contact
-E-mail: erik.mannergren [at] gmail.com
+E-mail: erik.mannergren [at] gmail.com  
 Linked-in: [erik-mannergren-8016584](https://www.linkedin.com/in/erik-mannergren-8016584)  
 Github: [mrmanne](https://github.com/mrmanne)  
