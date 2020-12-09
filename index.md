@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+# About
 
 My name is Erik Mannergren. I'm working as a software developer, based in Gothenburg, Sweden. I have been working in the Telecom business for around 15 years where I have been developing network applications mostly in C and C++. From September 2019 I'm working as a freelance IT consultant. My current assignment is within the Automotive sector where I code C++ and Rust.
 
@@ -12,11 +12,11 @@ I'm also interested in retro gaming and old computers. I had an Amiga 500 when I
 
 I have also been developing a Nintendo Entertainment System (NES) emulator as a hobby project for some time. It's still in early development but I plan to publish it on github when it's getting more complete.
 
-## My repositories on github
+# My repositories on github
 
 [My Rust solutions to Advent of Code 2020](https://mrmanne.github.io/advent-of-code-2020)
 
-## Contact
+# Contact
 E-mail: erik.mannergren [at] gmail.com  
 Linked-in: [erik-mannergren-8016584](https://www.linkedin.com/in/erik-mannergren-8016584)  
 Github: [mrmanne](https://github.com/mrmanne)  
