@@ -1,5 +1,3 @@
-# Erik Mannergren
-
 ## About
 
 My name is Erik Mannergren. I'm working as a software developer, based in Gothenburg, Sweden. I have been working in the Telecom business for around 15 years where I have been developing network applications mostly in C and C++. From September 2019 I'm working as a freelance IT consultant. My current assignment is within the Automotive sector where I code C++ and Rust.
